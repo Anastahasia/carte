@@ -1,0 +1,9 @@
+.sideArticle { 
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    margin: 3% 0%;
+}
+
+.sideArticle img{
+    width: 40%;
+}
